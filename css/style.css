@@ -276,7 +276,7 @@ header {
 /*counter start*/
 
 .counter {
-    background: linear-gradient(rgb(250 183 2 / 42%), rgb(0 0 0 / 64%)), url(../images/sl-1.jpg) fixed center center;
+    background: linear-gradient(rgb(2 193 250 / 1%), rgb(0 0 0 / 64%)), url(../images/sl-2.jpg) fixed center center;
     background-size: cover;
     padding: 72px 0px;
 }
